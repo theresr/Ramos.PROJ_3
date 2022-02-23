@@ -1,0 +1,99 @@
+Event	ID	Name			Wwise Object Path	Notes
+	52370326	Pain_Slith			\Default Work Unit\Main\Pain\Pain_Slith	
+	87064326	Pain_Rhino			\Default Work Unit\Main\Pain\Pain_Rhino	
+	157639802	Rumble			\Default Work Unit\Main\Rumble	
+	157654016	Fire_Fireball_Monster			\Default Work Unit\Main\Magic\Fire_Fireball_Monster	
+	401958326	Grunt_Slith			\Default Work Unit\Main\Grunt\Grunt_Slith	Posted when monster sees player and wakes up from sleeping state
+	427908151	Defeated_Ogre			\Default Work Unit\Main\Defeated\Defeated_Ogre	
+	436652326	Grunt_Rhino			\Default Work Unit\Main\Grunt\Grunt_Rhino	Posted when monster sees player and wakes up from sleeping state
+	674522502	Land			\Default Work Unit\Main\Land	
+	779629997	Spawn_Monster			\Default Work Unit\Main\Spawn_Monster	
+	908277812	Defeated_Slith			\Default Work Unit\Main\Defeated\Defeated_Slith	
+	1110865203	Hit_Fireball_Monster			\Default Work Unit\Main\Magic\Hit_Fireball_Monster	
+	1278524204	Defeated_Rhino			\Default Work Unit\Main\Defeated\Defeated_Rhino	
+	1379053034	Spawn_Player			\Default Work Unit\Main\Spawn_Player	
+	1532553273	Foot_Ogre			\Default Work Unit\Main\Foot\Foot_Ogre	
+	1620107411	Fire_PoisonGem_Player			\Default Work Unit\Main\Magic\Fire_PoisonGem_Player	
+	1758594367	Map_Loaded			\Default Work Unit\Main\Map_Loaded	
+	1894362767	Foot_Player			\Default Work Unit\Main\Foot\Foot_Player	
+	1996139369	Pain			\Default Work Unit\Main\Pain\Pain	
+	2202981293	Grunt_Ogre			\Default Work Unit\Main\Grunt\Grunt_Ogre	Posted when monster sees player and wakes up from sleeping state
+	2245995848	DCP_Enter01			\Default Work Unit\Maps\DCP_the_core\DCP_Enter01	
+	2245995851	DCP_Enter02			\Default Work Unit\Maps\DCP_the_core\DCP_Enter02	
+	2390793602	Fire_IceGem_Player			\Default Work Unit\Main\Magic\Fire_IceGem_Player	
+	2465710861	Pain_Ogre			\Default Work Unit\Main\Pain\Pain_Ogre	
+	2484024762	Fire_Staff_Player			\Default Work Unit\Main\Magic\Fire_Staff_Player	
+	2521139513	ItemMagic			\Default Work Unit\Main\ItemMagic	
+	2829720188	DCP_Signal01			\Default Work Unit\Maps\DCP_the_core\DCP_Signal01	
+	2829720191	DCP_Signal02			\Default Work Unit\Maps\DCP_the_core\DCP_Signal02	
+	3682968165	Defeated_Player			\Default Work Unit\Main\Defeated\Defeated_Player	
+	3826003282	Foot_Rhino			\Default Work Unit\Main\Foot\Foot_Rhino	
+	3833651337	Jump			\Default Work Unit\Main\Jump	
+	3877293442	Foot_Slith			\Default Work Unit\Main\Foot\Foot_Slith	
+	3877942876	SplashOut_Player			\Default Work Unit\Main\SplashOut_Player	
+	3952911171	Defeated_Rat			\Default Work Unit\Main\Defeated\Defeated_Rat	
+	3954482959	SplashIn_Player			\Default Work Unit\Main\SplashIn_Player	
+	4214542295	End_Fireball_Monster			\Default Work Unit\Main\Magic\End_Fireball_Monster	
+	4290568846	Fire_PoisonGem_Monster			\Default Work Unit\Main\Magic\Fire_PoisonGem_Monster	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	803837735	Sand	Material			
+	2473969246	Metal	Material			
+	2637588553	Tile	Material			
+
+Effect plug-ins	ID	Name	Type				Notes
+	652610570	Default (Custom)	Wwise Parametric EQ			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	739702003	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Silence\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	104322891	Pain_Slith	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\pains_09D70305.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Slith	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	60072
+	131698730	PoisonGem_Blast-03	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\PoisonGem_Blast-03_C49FCE3A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\PoisonGem Magic\PoisonGem Magic\PoisonGem_Blast-03		18094
+	136269548	PoisonGem_Blast-01	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\PoisonGem_Blast-01_73662E6B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\PoisonGem Magic\PoisonGem Magic\PoisonGem_Blast-01		23409
+	162814894	painr_1	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\painr_1_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Rhino\painr_1	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	75394
+	174900365	FS_Tile_01	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Footsteps\Tile\FS_Tile_01_5147F00C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Tile\FS_Tile_01		37506
+	183049738	Staff_Swing-04	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Weapon_F74F19F5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Staff_Swing-04		46107
+	187024402	Signal01	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\signal01_AC5BC291.wem		\Actor-Mixer Hierarchy\Default Work Unit\Maps\DCP_the_core\Map Items\Signal01		583744
+	187954308	pain2	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\pain2_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Pain\pain2		47392
+	226773859	Defeated_Rhino	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Defeated_Rhino_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Defeated_Rhino	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	173744
+	236827622	FS_Dirt_01	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Footsteps\Dirt\FS_Dirt_01_5147F00C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Dirt\FS_Dirt_01		43842
+	245661189	enter01	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\enter01_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Maps\DCP_the_core\Map Voices\enter01		158824
+	268012413	PoisonGem_Bubble	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\PoisonGem_Bubble_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\PoisonGem Magic\PoisonGem_Bubble		14763
+	308515305	Splash1	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\largesplashes_A5134C43.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Splashes\Splash1		48085
+	396065929	enter02	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\enter02_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Maps\DCP_the_core\Map Voices\enter02		227786
+	411764063	pain1	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\pain1_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Pain\pain1		33220
+	435463209	PoisonGem_Blast-02	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\PoisonGem_Blast-02_D67A4D78.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\PoisonGem Magic\PoisonGem Magic\PoisonGem_Blast-02		18754
+	522671429	Grunt1	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\grunt1_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Grunt\Grunt1		45208
+	531576265	Splash2	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\largesplashes_F654C806.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Splashes\Splash2		26659
+	533173107	Item_Magic	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\magical-effect_1D77F0B8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Item_Magic		14315
+	545662771	Staff_Swing-03	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Weapon_72C35B7C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Staff_Swing-03		44007
+	570737994	Staff_Swing-01	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Weapon_5319D65C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Staff_Swing-01		39727
+	577955928	FS_Tile_02	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Footsteps\Tile\FS_Tile_02_5147F00C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Tile\FS_Tile_02		53668
+	600445228	FS_Dirt_03	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Footsteps\Dirt\FS_Dirt_03_5147F00C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Dirt\FS_Dirt_03		75860
+	603800779	Signal02	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\signal02_DC0C36C7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Maps\DCP_the_core\Map Items\Signal02		190528
+	638613490	Staff_Swing-02	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Weapon_710EB16C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Staff_Swing-02		36717
+	647131193	FS_Dirt_02	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Footsteps\Dirt\FS_Dirt_02_5147F00C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Dirt\FS_Dirt_02		75860
+	647525261	FS_Tile_03	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Footsteps\Tile\FS_Tile_03_5147F00C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Tile\FS_Tile_03		58540
+	664823793	Under_Water	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Under_Water_095FF695.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Under_Water		960096
+	675351052	jump_1	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\jump_1_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Jump\jump_1		24218
+	709207210	jump_2	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\jump_2_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Jump\jump_2		15738
+	715743738	painr_2	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\painr_2_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Rhino\painr_2	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	77652
+	732682417	Fireball_Monster-01	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\FireBall_Monster-01_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\FireBall\Fireball_Monster-01		174224
+	738953253	pain3	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\pain3_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Pain\pain3		63892
+	833970328	Rumble	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Alert_01B04B41.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Rumble		30783
+	847990280	Monster_Spawn	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\magic-spell_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Monster Spawn\Monster_Spawn		23873
+	858495136	paino_1	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\paino_1_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Ogre\paino_1	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	52984
+	863063982	jump_3	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\jump_3_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Jump\jump_3		12724
+	938305357	Fireball_Monster-02	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\FireBall_Monster-02_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\FireBall\Fireball_Monster-02		102356
+	944893494	paino_2	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\paino_2_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Ogre\paino_2	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	41918
+	1024619699	Defeated_Slith	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Defeated_Slith_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Defeated_Slith	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	115006
+	1039211944	Land	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\land_942605B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Land	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	30226
+	1071749337	IceGem_Blast	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\IceGem_Blast_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\IceGem_Blast		24645
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	418295943	Cube_Main_Theme	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\Map_Start_775CB38D.wem	418295943.wem	\Actor-Mixer Hierarchy\Default Work Unit\Maps\DCP_the_core\Cube_Main_Theme	
+

@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	427908151	Defeated_Ogre			\Default Work Unit\Main\Defeated\Defeated_Ogre	
+	908277812	Defeated_Slith			\Default Work Unit\Main\Defeated\Defeated_Slith	
+	1278524204	Defeated_Rhino			\Default Work Unit\Main\Defeated\Defeated_Rhino	
+	2390793602	Fire_IceGem_Player			\Default Work Unit\Main\Magic\Fire_IceGem_Player	
+	3682968165	Defeated_Player			\Default Work Unit\Main\Defeated\Defeated_Player	
+	3952911171	Defeated_Rat			\Default Work Unit\Main\Defeated\Defeated_Rat	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	254418627	IceGem_Blast	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\icespellx3_17E3BE87.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\IceGem_Blast		23090
+	766006196	Defeated_Slith	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\ogre_0F51B4EA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Defeated_Slith	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	81248
+	788817723	Defeated_Rhino	Y:\Documents\Sound Design\5.-Project3_CubeRedesign-main\Project3_WwiseProject\.cache\Windows\SFX\ogre_A54142EF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Defeated_Rhino	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	134416
+
